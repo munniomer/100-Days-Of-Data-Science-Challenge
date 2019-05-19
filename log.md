@@ -13,6 +13,13 @@
 
 **Thoughts**: I am familiar with python but am happy to go through it as a beginner once again.
 
+### Day 2: May 19, 2019
+
+**Today's Progress**: Continued The Python Basics course on Treehouse.
+
+**Thoughts**: Finished the first part of the course which is Fundamental programming concepts.
+
+
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
