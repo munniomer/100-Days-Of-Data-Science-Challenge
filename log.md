@@ -19,6 +19,12 @@
 
 **Thoughts**: Finished the first part of the course which is Fundamental programming concepts.
 
+### Day 3: May 20, 2019
+
+**Today's Progress**: Continued The Python Basics course on Treehouse.
+
+**Thoughts**: Finished the second part of the course which is Input and Output.
+
 
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
